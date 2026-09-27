@@ -3,7 +3,7 @@
 A clean, modular command-line tool built using pure Python for managing daily expenses, tracking categorization, and exporting financial data.
 
 ## Project Overview
-This project addresses personal financial discipline through a modular command-line workflow. Built on pure Python Standard Library components, it delivers persistent data storage, input validation, category summaries, and tabular exports.
+Developed by Jatin Parmar for python lab project 2026.This project addresses personal financial discipline through a modular command-line workflow. Built on pure Python Standard Library components, it delivers persistent data storage, input validation, category summaries, and tabular exports.
 
 ## Features
 - **Transaction Management:** Add, inspect, and delete expense entries.
